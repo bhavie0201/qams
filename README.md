@@ -1,6 +1,6 @@
 # qams
 
-A new Flutter project.
+A Qr based Attendance Management System built using Flutter & Firebase
 
 ## Getting Started
 
