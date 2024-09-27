@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBEBeInfuiPOLm_NfHpTBT7bYbbRBq6liA',
-    appId: '1:113248585294:android:94df9dad432c913d5ba51f',
-    messagingSenderId: '113248585294',
-    projectId: 'qams-ad643',
-    storageBucket: 'qams-ad643.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyChx5b_BVBS5Km625CnEsjmfTTrDam1o5I',
-    appId: '1:113248585294:ios:3ed545a7c3fbe5035ba51f',
-    messagingSenderId: '113248585294',
-    projectId: 'qams-ad643',
-    storageBucket: 'qams-ad643.appspot.com',
-    iosBundleId: 'com.example.qams',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
