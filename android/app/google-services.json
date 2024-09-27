@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113248585294",
+    "project_id": "qams-ad643",
+    "storage_bucket": "qams-ad643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113248585294:android:94df9dad432c913d5ba51f",
+        "android_client_info": {
+          "package_name": "com.example.qams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBeInfuiPOLm_NfHpTBT7bYbbRBq6liA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
